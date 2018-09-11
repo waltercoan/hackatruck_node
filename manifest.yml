@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: univillewalter12
+  host: univillewalter12
+  disk_quota: 1024M
+  services:
+    - univillewalter12
